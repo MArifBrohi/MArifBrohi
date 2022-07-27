@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MArifBrohi
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java
+- 👀 I’m interested in Java, Web Development , C++ and Python
+- 🌱 I’m currently learning Python and Web Development
+- 💞️ I’m looking to collaborate on Programming Languages
 - 📫 How to reach me brohiarif26@gmail.com
 
 <!---
