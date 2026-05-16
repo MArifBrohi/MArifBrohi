@@ -16,7 +16,8 @@
 
 | Project | Description | Accuracy | Live |
 |---------|-------------|----------|------|
-| ❤️ [Heart Disease Predictor](https://github.com/MArifBrohi/heart-disease-predictor) | XGBoost + Random Forest with SHAP explainability | 98.54% | [Live App](https://heart-disease-predictor-mlweb.streamlit.app/) |
+| ❤️ [Heart Disease Predictor](https://github.com/MArifBrohi/heart-disease-predictor) | XGBoost + Random Forest with SHAP explainability | 98.54% | [Live App](https://heart-disease-predictor.streamlit.app) |
+| 🎬 [Movie Recommender System](https://github.com/MArifBrohi/movie-recommender_mlsystem) | Content-based filtering with TMDB API & posters | — | [Live App](https://movies-recommender-marif.streamlit.app/) |
 | 📄 PDF Q&A Chatbot | RAG pipeline — LangChain + FAISS + Gemini | — | Coming Soon |
 | 🌍 Urdu Sentiment Analyzer | Multilingual BERT for Roman Urdu NLP | — | Coming Soon |
 | 📈 Stock Price Forecasting | LSTM time series with live market data | — | Coming Soon |
