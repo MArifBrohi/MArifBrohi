@@ -8,7 +8,7 @@
 - 🌱 Currently learning: **LangChain, LLMs, Agentic AI**
 - 💼 Open to: **ML Engineer | Data Scientist | AI Developer roles**
 - 📫 Reach me at: **brohiarif26@gmail.com**
-- 🌐 Portfolio: [muhammad-arifportfolio.vercel.app](https://muhammad-arifportfolio.vercel.app)
+- 🌐 Portfolio: [muhammad-arifportfolio.vercel.app](https://muhammad-arif-portfolio.vercel.app/)
 
 ---
 
