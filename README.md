@@ -18,7 +18,7 @@
 |---------|-------------|----------|------|
 | ❤️ [Heart Disease Predictor](https://github.com/MArifBrohi/heart-disease-predictor) | XGBoost + Random Forest with SHAP explainability | 98.54% | [Live App](https://heart-disease-predictor.streamlit.app) |
 | 🎬 [Movie Recommender System](https://github.com/MArifBrohi/movie-recommender_mlsystem) | Content-based filtering with TMDB API & posters | — | [Live App](https://movies-recommender-marif.streamlit.app/) |
-| 📄 PDF Q&A Chatbot | RAG pipeline — LangChain + FAISS + Gemini | — | Coming Soon |
+| 📄 [RAG PDF Chatbot](https://github.com/MArifBrohi/rag-pdf-chatbot) | Multi-PDF Q&A with LangChain + FAISS + Groq LLaMA 3.3 — Chat history + Source pages | — | [Live App](https://rag-pdf-chatbot-devarif.streamlit.app/) |
 | 🌍 [Urdu Sentiment Analyzer](https://github.com/MArifBrohi/urdu-sentiment-analyzer) | TF-IDF + Logistic Regression — 80.49% accuracy on 11K Roman Urdu reviews | 80.49% | [Live App](https://urdu-sentiment-analyzer-movie-based.streamlit.app) |
 | 📈 Stock Price Forecasting | LSTM time series with live market data | — | Coming Soon |
 
