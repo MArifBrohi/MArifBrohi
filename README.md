@@ -20,6 +20,7 @@
 | 🎬 [Movie Recommender System](https://github.com/MArifBrohi/movie-recommender_mlsystem) | Content-based filtering with TMDB API & posters | — | [Live App](https://movies-recommender-marif.streamlit.app/) |
 | 📄 [RAG PDF Chatbot](https://github.com/MArifBrohi/rag-pdf-chatbot) | Multi-PDF Q&A with LangChain + FAISS + Groq LLaMA 3.3 — Chat history + Source pages | — | [Live App](https://rag-pdf-chatbot-devarif.streamlit.app/) |
 | 🌍 [Urdu Sentiment Analyzer](https://github.com/MArifBrohi/urdu-sentiment-analyzer) | TF-IDF + Logistic Regression — 80.49% accuracy on 11K Roman Urdu reviews | 80.49% | [Live App](https://urdu-sentiment-analyzer-movie-based.streamlit.app) |
+| 🎭 [Emotion Detector](https://github.com/MArifBrohi/emotion-detector) | Real-time facial emotion recognition using CNN + OpenCV + Streamlit | — | [Live App](https://emotion-detector-dev-by-arif.streamlit.app/) |
 | 📈 Stock Price Forecasting | LSTM time series with live market data | — | Coming Soon |
 
 ---
